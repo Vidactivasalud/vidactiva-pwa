@@ -1,0 +1,17 @@
+{
+  "name": "Vidactiva Salud",
+  "theme_color": "#8eda93",
+  "background_color": "#ffffff",
+  "short_name": "Vidactiva Salud",
+  "id": "/",
+  "description": "Consejos sobre superalimentos, nutrición, recetas saludables, deporte, prevención y antienvejecimiento para mejorar tu salud y bienestar.",
+  "start_url": "https://www.vidactivasalud.com/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
